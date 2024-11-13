@@ -1,0 +1,22 @@
+{
+  "entertainment": {
+    "time": 2813,
+    "sessions": 3
+  },
+  "career_capital": {
+    "time": 15,
+    "sessions": 1
+  },
+  "clarity": {
+    "time": 5674,
+    "sessions": 3
+  },
+  "notfocused": {
+    "time": 7713,
+    "sessions": 1
+  },
+  "everegreen_notes": {
+    "time": 10784,
+    "sessions": 2
+  }
+}
